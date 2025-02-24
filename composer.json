@@ -1,6 +1,6 @@
 {
     "name": "ducna01120/registry-bridge",
-    "version": "0.0.18",
+    "version": "0.0.19",
     "description": "Internal Bridge between Fleetbase API and Extensions Registry",
     "keywords": [
         "fleetbase-extension",
