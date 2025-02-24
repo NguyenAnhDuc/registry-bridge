@@ -1,5 +1,5 @@
 {
-    "name": "fleetbase/registry-bridge",
+    "name": "ducna01120/registry-bridge",
     "version": "0.0.18",
     "description": "Internal Bridge between Fleetbase API and Extensions Registry",
     "keywords": [
@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "fleetbase/core-api": "*",
+        "ducna01120/core-api": "*",
         "laravel/cashier": "^15.2.1",
         "php-http/guzzle7-adapter": "^1.0",
         "psr/http-factory-implementation": "*",
